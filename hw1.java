@@ -5,14 +5,6 @@ class hw1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        //My name
-        String s = "Hiram";
-
-        for (Character c : s.toCharArray()){
-            System.out.println((int)c);
-        }
-
-        //Any name or text to be converted
         System.out.print("Enter text: ");
         String text = input.nextLine();
 
