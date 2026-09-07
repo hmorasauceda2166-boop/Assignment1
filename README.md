@@ -23,5 +23,3 @@ This program reads smiley.png and saves its pixel values in output.txt.
 ### Image Creator
 
 This program reads the pixel values in awesome_picture.txt and creates smiley2.png.
-
-## Running the Programs
