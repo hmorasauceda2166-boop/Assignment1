@@ -24,9 +24,30 @@ This program reads smiley.png and saves its pixel values in output.txt.
 
 This program reads the pixel values in awesome_picture.txt and creates smiley2.png.
 
-## Running the Programs
+## Program Screenshots
 
-The Java programs can be run in IntelliJ IDEA. The Python program can be run in the Terminal with this command:
+### hw1.java ASCII Converter
 
-```bash
-python3 img2.pyw
+![hw1.java ASCII converter test](ascii_converter.png)
+
+### BaseConverter.java Number Base Converter
+
+![BaseConverter.java number base converter test](base_converter.png)
+
+### hw1pix.java Image Reader
+
+![hw1pix.java image reader test](image_reader.png)
+
+### img2.py Image Creator
+
+![img2.py image creator test](image_creator.png)
+
+## Input and Generated Images
+
+### smiley.png Input Image
+
+![smiley.png input image](smiley.png)
+
+### smiley2.png Generated Image
+
+![smiley2.png generated image](smiley2.png)
